@@ -1,16 +1,6 @@
 # flutter_multi_theme
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/647ba486-5418-4a8b-b5fd-f45b3116a920)
+![image](https://github.com/user-attachments/assets/f47e03d3-e576-45ff-9881-d889fdccc5a2)
+![image](https://github.com/user-attachments/assets/72d8398e-de1c-461c-b873-7153fb0f53c3)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
